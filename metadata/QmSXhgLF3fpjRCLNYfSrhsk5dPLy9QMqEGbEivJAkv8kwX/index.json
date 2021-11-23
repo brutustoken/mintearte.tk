@@ -1,5 +1,5 @@
 {
-  "title": "Brut Art",
+  "title": "Brutus Dorado",
   "name": "Brutus Dorado",
   "image": "https://gateway.btfs.io/btfs/QmQ7Mppr9s5BtVLUh2SLoVzotHp2Eedzn6tjACQ1F76bSd",
   "fileUrl": "https://gateway.btfs.io/btfs/QmQ7Mppr9s5BtVLUh2SLoVzotHp2Eedzn6tjACQ1F76bSd",
@@ -12,6 +12,10 @@
     }
   ],
   "properties": {
+    "title": {
+      "type": "string",
+      "description": "Brutu Art"
+    },
     "name": {
       "type": "string",
       "description": "Brutus Dorado"
