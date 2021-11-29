@@ -18,7 +18,7 @@
     },
     "description": {
       "type": "string",
-      "description": "Colección: Brutus primera edición,\nPosición: #0,\nTipología: Neutro,\nFamilia: Brutus,\nArtista: Xiz Art,\nVMG Inicial: 0 APENFT",
+      "description": "Colección: Brutus primera edición,\nPosición: #0,\nTipología: Neutro,\nFamilia: Brutus,\nArtista: Xiz Art,\nVMG Inicial: 0 APENFT"
     },
     "image":{
       "type": "string",
