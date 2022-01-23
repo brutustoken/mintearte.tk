@@ -3,7 +3,7 @@
   "name": "LightGreen",
   "image": "https://mintearte.tk/nft/10-Neutro/10-Neutro.png",
   "fileUrl": "https://mintearte.tk/nft/10-Neutro/10-Neutro.png",
-  "description": "Colección: Brutus primera edición,\nPosición: #10,\nTipología: Original,\nFamilia: Brutus,\nEnfoque: Staking,\nArtista: Xiz Art,\nVMG Inicial: 5.000.000 APENFT",
+  "description": "Colección: Brutus primera edición,\nPosición: #10,\nTipología: Original,\nFamilia: Brutus,\nEnfoque: Staking,\nArtista: Xiz Art,\nVMG Inicial: 10.000.000 APENFT",
   "externalLink": "https://brutustoken.com",
   "attributes": [
     {
@@ -18,7 +18,7 @@
     },
     "description": {
       "type": "string",
-      "description": "Colección: Brutus primera edición,\nPosición: #10,\nTipología: Original,\nFamilia: Brutus,\nEnfoque: Staking,\nArtista: Xiz Art,\nVMG Inicial: 5.000.000 APENFT"
+      "description": "Colección: Brutus primera edición,\nPosición: #10,\nTipología: Original,\nFamilia: Brutus,\nEnfoque: Staking,\nArtista: Xiz Art,\nVMG Inicial: 10.000.000 APENFT"
     },
     "image":{
       "type": "string",

@@ -3,7 +3,7 @@
   "name": "LigthtBlue",
   "image": "https://mintearte.tk/nft/08-Neutro/08-Neutro.png",
   "fileUrl": "https://mintearte.tk/nft/08-Neutro/08-Neutro.png",
-  "description": "Colección: Brutus primera edición,\nPosición: #8,\nTipología: Original,\nFamilia: Brutus,\nArtista: Xiz Art,\nVMG Inicial: 5.000.000 APENFT",
+  "description": "Colección: Brutus primera edición,\nPosición: #8,\nTipología: Original,\nFamilia: Brutus,\nArtista: Xiz Art,\nVMG Inicial: 10.000.000 APENFT",
   "externalLink": "https://brutustoken.com",
   "attributes": [
     {
@@ -18,7 +18,7 @@
     },
     "description": {
       "type": "string",
-      "description": "Colección: Brutus primera edición,\nPosición: #8,\nTipología: Original,\nFamilia: Brutus,\nArtista: Xiz Art,\nVMG Inicial: 5.000.000 APENFT"
+      "description": "Colección: Brutus primera edición,\nPosición: #8,\nTipología: Original,\nFamilia: Brutus,\nArtista: Xiz Art,\nVMG Inicial: 10.000.000 APENFT"
     },
     "image":{
       "type": "string",

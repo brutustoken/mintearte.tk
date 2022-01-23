@@ -3,7 +3,7 @@
   "name": "YellowJacket",
   "image": "https://mintearte.tk/nft/16-BRUT/16-BRUT.png",
   "fileUrl": "https://mintearte.tk/nft/16-BRUT/16-BRUT.png",
-  "description": "Colección: Brutus primera edición,\nPosición: #16,\nTipología: Común,\nFamilia: Brutus,\n,\nArtista: Xiz Art,\nVMG Inicial: 2.500.000 APENFT",
+  "description": "Colección: Brutus primera edición,\nPosición: #16,\nTipología: Común,\nFamilia: Brutus,\n,\nArtista: Xiz Art,\nVMG Inicial: 5.000.000 APENFT",
   "externalLink": "https://brutustoken.com",
   "attributes": [
     {
@@ -18,7 +18,7 @@
     },
     "description": {
       "type": "string",
-      "description": "Colección: Brutus primera edición,\nPosición: #16,\nTipología: Común,\nFamilia: Brutus,\n,\nArtista: Xiz Art,\nVMG Inicial: 2.500.000 APENFT"
+      "description": "Colección: Brutus primera edición,\nPosición: #16,\nTipología: Común,\nFamilia: Brutus,\n,\nArtista: Xiz Art,\nVMG Inicial: 5.000.000 APENFT"
     },
     "image":{
       "type": "string",
